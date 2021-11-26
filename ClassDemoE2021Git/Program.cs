@@ -10,6 +10,9 @@ namespace ClassDemoE2021Git
             Console.WriteLine("Dette er master");
             Console.WriteLine("Peter was here");
             Console.WriteLine("Hello World!");
+
+
+            Console.WriteLine("Efter github ");
         }
     }
 }
